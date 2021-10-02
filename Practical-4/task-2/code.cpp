@@ -24,6 +24,7 @@ using namespace second;
 
 int main()
 {
-    int a=add(5,2.1);
-    std::cout<<a;
+    std::cout<<add(5,2.5);
+    std::cout<<add(5.2,2);
+    std::cout<<add(5,2);
 }
