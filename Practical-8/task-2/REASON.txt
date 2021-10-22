@@ -1,0 +1,5 @@
+on running the V1 code it gives out error: lvalue required as increment operand
+
+on line 13 it says (arr++), here arr is ana array and you cannot modify the address of an array 
+
+so instead to print out the next element we use *(arr+1) to go the index of that address instead
