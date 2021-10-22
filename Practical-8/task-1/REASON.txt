@@ -1,0 +1,3 @@
+The program will give out error: scalar object ‘p’ requires one element in initializer
+
+this is because here you dont allocate memory to the pointer. *p just acts as a place holder where you can store addresses.
