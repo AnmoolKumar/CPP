@@ -23,7 +23,7 @@ class student
         void display()
         {
             cout<<"\n"<<"Name: "<<name<<endl;
-            cout<<"Address: "<<address<<endl<<"Mobile Number: "<<mobile<<endl<<"Telephone Number: "<<tele<<endl<<"Head of family: "<<endl;
+            cout<<"Address: "<<address<<endl<<"Mobile Number: "<<mobile<<endl<<"Telephone Number: "<<tele<<endl<<"Head of family: "<<head<<endl;
             cout<<"\n";
         }
 };
